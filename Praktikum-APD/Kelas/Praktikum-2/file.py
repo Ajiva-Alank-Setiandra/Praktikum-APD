@@ -1,0 +1,2 @@
+sigma = "sikibidi"
+print (sigma)
